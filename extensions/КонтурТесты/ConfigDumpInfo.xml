@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="CommonModule.кт_Входящие" id="c3d4e5f6-a7b8-4901-8234-56789abcdef0" configVersion="f30af0d868eb579b5dbe0e40e02cc6c62c2d7998"/>
+		<Metadata name="CommonModule.кт_ЗаказКлиента" id="8b3e2c40-6d9f-405c-be53-4f7dab906122" configVersion="b2d1f3c5e7a908172635445566778899aabbccdd"/>
+		<Metadata name="CommonModule.кт_ЗаказКлиента.Module" id="8b3e2c40-6d9f-405c-be53-4f7dab906122.0" configVersion="c3e2a4d6f8b0192837465566778899aabbccddee"/>
+		<Metadata name="Subsystem.кт_Тесты" id="7a2d1b3f-5c8e-4f9b-ad42-3e6c9b8f5011" configVersion="d4f3b5e7a9c12039485766778899aabbccddeeff"/>
+		<Metadata name="CommonModule.кт_Входящие.Module" id="c3d4e5f6-a7b8-4901-8234-56789abcdef0.0" configVersion="96aee3bf3b7f34cc6efd7632fb1463386981016f"/>
+		<Metadata name="Configuration.КонтурТесты" id="f6a7b8c9-d0e1-4234-b567-89abcdef0123" configVersion="bec1f3402b0c5748a1aabbe9d3f68c852ef74619"/>
+		<Metadata name="Language.Русский" id="e5f6a7b8-c9d0-4123-a456-789abcdef012" configVersion="e32f6d935d1d04274097dfa78e1860753b5b66c9"/>
+		<Metadata name="Role.кт_ОсновнаяРоль" id="d4e5f6a7-b8c9-4012-9345-6789abcdef01" configVersion="0b1f9fa3c0c3f79a4792a12410dc86abb8d32b3d"/>
+		<Metadata name="Role.кт_ОсновнаяРоль.Rights" id="d4e5f6a7-b8c9-4012-9345-6789abcdef01.0" configVersion="3d2f2138a8364a6e3c076124423e01e6a35bbf6a"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

@@ -1,0 +1,6 @@
+.env
+*.cfe
+*.dt
+report.md
+__pycache__/
+.htpasswd

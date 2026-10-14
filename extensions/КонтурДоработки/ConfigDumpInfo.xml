@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="Catalog.кд_ВходящееОбращение" id="309cefc7-49d2-4939-83da-cd067fb6fa02" configVersion="942eba69193193b874c7e439e26356501cdc7ba5">
+			<Metadata name="Catalog.кд_ВходящееОбращение.Attribute.Категория" id="3458c00b-e26d-4264-ab67-8272cd0ebda4"/>
+			<Metadata name="Catalog.кд_ВходящееОбращение.Attribute.Канал" id="44942402-8df5-4cb3-8438-ec0a7191ba14"/>
+			<Metadata name="Catalog.кд_ВходящееОбращение.Attribute.Текст" id="a02894ef-3304-4e2b-b8c7-486992a56686"/>
+		</Metadata>
+		<Metadata name="Catalog.кд_Проба" id="c0dc4e64-98d8-42b2-bb79-3718f89c3ca0" configVersion="709b53ce56a95f464db9b220c48f42469e3514fa"/>
+		<Metadata name="CommonModule.кд_ВходящиеОбращения" id="a4c8e1d2-7b30-4f6a-9e15-2c8d4b7a1f03" configVersion="491f5c120acde1d8d1d73fc7a166c02f9a58e6d0"/>
+		<Metadata name="CommonModule.кд_ВходящиеОбращения.Module" id="a4c8e1d2-7b30-4f6a-9e15-2c8d4b7a1f03.0" configVersion="97e0e3b640f434b0216f35553781f50c5cda4834"/>
+		<Metadata name="CommonModule.кд_ТестовыеДанные" id="7c2a1f4e-6b8d-4e1a-9c33-2d5f8a7b6c01" configVersion="8e8a24b3baaf2b2ff451ec36f099a9e6686b816a"/>
+		<Metadata name="CommonModule.кд_ТестовыеДанные.Module" id="7c2a1f4e-6b8d-4e1a-9c33-2d5f8a7b6c01.0" configVersion="06c04dfc611deecbf582466b93d70687bb369a89"/>
+		<Metadata name="Configuration.КонтурДоработки" id="2b303e5e-ff2d-415a-a030-569aeaa207da" configVersion="82f627e94a450ff7eb23789bbd233e853cda028f"/>
+		<Metadata name="HTTPService.кд_Входящие" id="b1e6c2d4-1a20-4c55-8e77-0a9b8c7d6e50" configVersion="32de175096be5fd458475d852f85ed77492f39db">
+			<Metadata name="HTTPService.кд_Входящие.URLTemplate.incoming" id="c2f7d3e5-2b31-4d66-9f88-1b0c9d8e7f61"/>
+			<Metadata name="HTTPService.кд_Входящие.URLTemplate.incoming.Method.post" id="d308e4f6-3c42-4e77-a099-2c1dae9f8072"/>
+		</Metadata>
+		<Metadata name="HTTPService.кд_Входящие.Module" id="b1e6c2d4-1a20-4c55-8e77-0a9b8c7d6e50.0" configVersion="6aa0a690dfe177e28091571368f008e02a2a9a87"/>
+		<Metadata name="HTTPService.кд_Данные" id="8d3b2e5f-7c9e-4f2b-ad44-3e6a9b8c7d12" configVersion="c8ca3889da9685c9e6e92c8dcb3fe35c874c8421">
+			<Metadata name="HTTPService.кд_Данные.URLTemplate.seed" id="9e4c3f60-8d0f-403c-be55-4f7bac9d8e23"/>
+			<Metadata name="HTTPService.кд_Данные.URLTemplate.seed.Method.get" id="af5d4071-9e10-414d-cf66-508cbdae9f34"/>
+		</Metadata>
+		<Metadata name="HTTPService.кд_Данные.Module" id="8d3b2e5f-7c9e-4f2b-ad44-3e6a9b8c7d12.0" configVersion="2dbc924ad058e7da93e62532c79c151a15c10545"/>
+		<Metadata name="Language.Русский" id="0d1e436c-3140-436f-abe5-b24e19bf5167" configVersion="52a2b3aaf85f4464f426489b45de8001136fc061"/>
+		<Metadata name="Role.кд_ОсновнаяРоль" id="50efca24-056e-489b-9190-ff7e13cdad2f" configVersion="f473f612a19253734caed6e4daaa13139e3eedc3"/>
+		<Metadata name="Subsystem.кд_Контур" id="6f1c0a2e-4b7d-4e8a-9c31-2d5b8a7e4f10" configVersion="a1c0e2b4d6f809172635445566778899aabbccdd"/>
+		<Metadata name="Role.кд_ОсновнаяРоль.Rights" id="50efca24-056e-489b-9190-ff7e13cdad2f.0" configVersion="dfd2aa5c56db8eb03a4b5345df16567559682276"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
